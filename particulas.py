@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
 # configuracion inicial
-NUM_PARTICLES = 500   # numero de particulas
+NUM_PARTICLES = 100   # numero de particulas
 SPACE_SIZE = 10      # tamano del espacio
 TIME_STEPS = 200     # numero de pasos de tiempo
 DT = 0.1            # paso de tiempo
